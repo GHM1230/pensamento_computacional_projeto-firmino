@@ -29,7 +29,9 @@ if opcao == "1":
     print("- Açaí com leite de coco")
     print("- Açaí com leite de soja")
     print("- Açaí com leite")
-    print("- Açaí com leite condensado\n")
+    print("- Açaí com leite condensado")
+    print("- Açaí personalizado (escolha seus próprios acompanhamentos)")
+    print("- Açaí completo (com todas as opções de acompanhamento)\n")
 
 elif opcao == "2":
     print("\nNosso horário de funcionamento é:")
