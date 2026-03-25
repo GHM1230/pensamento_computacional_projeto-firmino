@@ -49,7 +49,10 @@ elif opcao == "4":
     print("\nNosso contato é:")
     print("Telefone: (99) 99999-9999")
     print("Email: contato@acaíteria.com\n")
-
+    print("Redes sociais:")
+    print("- Instagram: @acaíteria")
+    print("- Facebook: /acaíteria")
+    print("- Twitter: @acaíteria\n")
 
 elif opcao == "5":
     print("\nObrigado por usar nosso sistema de ajuda! Até mais!\n")
