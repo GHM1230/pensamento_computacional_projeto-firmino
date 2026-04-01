@@ -190,6 +190,7 @@ def ajuda():
     print("1 - Cardápio")
     print("2 - Horário")
     print("3 - Localização")
+    print("4 - Contato")
 
     opcao = input("Escolha: ")
 
@@ -199,6 +200,9 @@ def ajuda():
         print("Seg a Sex: 10h às 22h")
     elif opcao == "3":
         print("São Paulo - SP")
+    elif opcao == "4":
+        print("Telefone: (11) 1234-5678")
+        print("Email: contato@acaiteria.com")
     else:
         print("Opção inválida")
 
